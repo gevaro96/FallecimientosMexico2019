@@ -8,3 +8,5 @@ INEGI. (2016). Estadística de defunciones generales Marco metodológico. 16/08/
 INEGI. (2020, octubre 29). Estadísticas Vitales. Defunciones registradas 2019. Datos oportunos. inegi.org.Sitio web:  
 https://www.inegi.org.mx/programas/mortalidad/#Datos_abiertos
 
+https://www.openstreetmap.org/copyright
+
